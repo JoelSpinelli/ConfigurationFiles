@@ -1,0 +1,4 @@
+Bracket Pair Colorizer
+Code Runner
+Winter is Coming Theme
+GitLens — Git supercharged
