@@ -1,0 +1,22 @@
+{
+  "breadcrumbs.enabled": true,
+  "debug.toolBarLocation": "floating",
+  "editor.autoIndent": true,
+  "editor.codeLens": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line",
+  "editor.fontSize": 12,
+  "editor.fontFamily": "'Fira Code', 'Dank Mono', 'Operator Mono'",
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.letterSpacing": 0.5,
+  "editor.lineHeight": 20,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "search.showLineNumbers": true,
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+  "zenMode.centerLayout": false
+}
