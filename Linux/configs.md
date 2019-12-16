@@ -1,5 +1,11 @@
 sudo apt update
+
 sudo apt install build-essential -y
+
+#### Instalar terminator
+```
+sudo apt-get install terminator
+```
 
 
 #### Configurar layout de teclado
