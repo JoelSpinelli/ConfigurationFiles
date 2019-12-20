@@ -3,3 +3,4 @@ Code Runner
 Winter is Coming Theme
 GitLens — Git supercharged
 Trailing Spaces
+Docker
