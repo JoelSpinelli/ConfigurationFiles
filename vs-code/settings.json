@@ -10,7 +10,6 @@
   "editor.fontLigatures": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": false,
-  "editor.formatOnSave": true,
   "editor.letterSpacing": 0.5,
   "editor.lineHeight": 20,
   "files.autoSave": "afterDelay",
