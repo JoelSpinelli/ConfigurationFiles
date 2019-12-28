@@ -10,17 +10,17 @@ sudo apt-get install terminator
 
 #### Configurar layout de teclado
 
-Para funcionar acentos e ç no teclado internacional
-```
-setxkbmap -model abnt -layout us -variant intl
-```
+##### No Ubuntu 19.10 - configurar teclado internacional
+ - Configurações > Região e idioma
+  - Adicionar o idioma: Inglês (EUA,intern. alt.)
+  - Alterar o arquivo: /etc/environment
+     - Adicionar:
+     ```
+     GTK_IM_MODULE=cedilla
+     QT_IM_MODULE=cedilla
+     ```
 
-Para utilizar o teclado abnt2
-```
-setxkbmap -model abnt2 -layout br -variant abnt2
-```
-
-#### Font Frida Code
+#### Font FiraCode
 ``` 
 mkdir -p ~/.local/share/fonts
 ```
