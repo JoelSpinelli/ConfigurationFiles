@@ -35,3 +35,8 @@ fc-cache -f
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 ```
+
+#### Problema com endereço local
+```
+https://askubuntu.com/questions/81797/nslookup-finds-ip-but-ping-doesnt
+```
